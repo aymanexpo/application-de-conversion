@@ -1,0 +1,29 @@
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+C:\Users\ayman\Desktop\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.enregistrement_des_données.resources
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.enregistrement_des_données.resources
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form2.resources
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form3.resources
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\usb ancien\my prog\vb.net app form\prog de conversion de dh en euro etc\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
